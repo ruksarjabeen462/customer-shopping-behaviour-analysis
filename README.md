@@ -16,7 +16,7 @@ This project focuses on analyzing customer shopping behaviour to understand purc
 
 - Python: Data cleaning and analysis
 - SQL (SQLite): Data querying and analysis
-- Looker Studio: Interactive dashboard and visualization
+- Power bi and Looker Studio: Interactive dashboard and visualization
 
 📂 Project Files
 
